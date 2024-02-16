@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @johnsonkumara
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Puppet
+- 🌱 I’m experts Ansible/Puppet,.
+- 🎉 I'm learning Kubernetes,..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
